@@ -5,7 +5,7 @@ usage: directConnectStatus.py [-h] -s <storagegatewayid>
 Description: Monitors an AWS Storage Gateway included by parameter
 
 optional arguments:
-  -h, --help            show this help message and exit 
+  -h, --help            show this help message and exit
   -s <storagegatewayid>, --storagegateway <storagegatewayid>
                         StorageGateway ID to monitor
 
